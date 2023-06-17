@@ -5,8 +5,8 @@
 // Set these to run example.
 #define FIREBASE_HOST "ecg-checker.firebaseio.com"
 #define FIREBASE_AUTH "JDoi1oBmga66MdN24avq8svmdMKhpyPrXJQNOa6p"
-#define WIFI_SSID "ezayk23moraaa"
-#define WIFI_PASSWORD "salama18"
+#define WIFI_SSID "TP_LINK"
+#define WIFI_PASSWORD "aAbBcCdD"
 
 static int ecgValues[1000];
 static int counter=0;
